@@ -1,0 +1,11 @@
+plugins {
+    id 'java'
+}
+
+group = 'javabegin.micro.demo'
+version = '1.0-SNAPSHOT'
+
+repositories {
+    mavenCentral()
+}
+
